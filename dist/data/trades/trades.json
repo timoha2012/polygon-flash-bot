@@ -1,0 +1,650 @@
+[
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "MATIC",
+        "tokenB": "WETH",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "MATIC",
+        "tokenB": "WETH",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "MATIC",
+        "tokenB": "WETH",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "MATIC",
+        "tokenB": "WETH",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "MATIC",
+        "tokenB": "WETH",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "MATIC",
+        "tokenB": "WETH",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "MATIC",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "MATIC",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "MATIC",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "MATIC",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "MATIC",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "MATIC",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WBTC",
+        "tokenB": "WETH",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WBTC",
+        "tokenB": "WETH",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WBTC",
+        "tokenB": "WETH",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WBTC",
+        "tokenB": "WETH",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WBTC",
+        "tokenB": "WETH",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WBTC",
+        "tokenB": "WETH",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "WBTC",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "WBTC",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "WBTC",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "WBTC",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "WBTC",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokenA": "WETH",
+        "tokenB": "WBTC",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "USDCe",
+        "tokenB": "WETH",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "USDCe",
+        "tokenB": "WETH",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "USDCe",
+        "tokenB": "WETH",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "USDCe",
+        "tokenB": "WETH",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "USDCe",
+        "tokenB": "WETH",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "USDCe",
+        "tokenB": "WETH",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "WETH",
+        "tokenB": "USDCe",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "WETH",
+        "tokenB": "USDCe",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "WETH",
+        "tokenB": "USDCe",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "WETH",
+        "tokenB": "USDCe",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "WETH",
+        "tokenB": "USDCe",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "USDC.e-WETH",
+        "tokenA": "WETH",
+        "tokenB": "USDCe",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "MATIC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "MATIC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "MATIC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "MATIC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "MATIC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "MATIC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "MATIC",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "MATIC",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "MATIC",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "MATIC",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "MATIC",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "MATIC",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "WBTC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "WBTC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "WBTC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "WBTC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "WBTC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "WBTC",
+        "tokenB": "USDCe",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "WBTC",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "WBTC",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "WBTC",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "WBTC",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "WBTC",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "WBTC-USDC.e",
+        "tokenA": "USDCe",
+        "tokenB": "WBTC",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "MATIC",
+        "tokenB": "WBTC",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "MATIC",
+        "tokenB": "WBTC",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "MATIC",
+        "tokenB": "WBTC",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "MATIC",
+        "tokenB": "WBTC",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "MATIC",
+        "tokenB": "WBTC",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "MATIC",
+        "tokenB": "WBTC",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "WBTC",
+        "tokenB": "MATIC",
+        "routers": [
+            "Uniswap",
+            "Sushiswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "WBTC",
+        "tokenB": "MATIC",
+        "routers": [
+            "Uniswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "WBTC",
+        "tokenB": "MATIC",
+        "routers": [
+            "Sushiswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "WBTC",
+        "tokenB": "MATIC",
+        "routers": [
+            "Sushiswap",
+            "Quickswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "WBTC",
+        "tokenB": "MATIC",
+        "routers": [
+            "Quickswap",
+            "Uniswap"
+        ]
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokenA": "WBTC",
+        "tokenB": "MATIC",
+        "routers": [
+            "Quickswap",
+            "Sushiswap"
+        ]
+    }
+]

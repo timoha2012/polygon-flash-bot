@@ -1,0 +1,674 @@
+[
+    {
+        "pool": "MATIC-WETH",
+        "tokens": {
+            "name": [
+                "MATIC",
+                "WETH"
+            ],
+            "address": [
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0xc4e595acDD7d12feC385E5dA5D43160e8A0bAC0E",
+                "0xadbF1854e5883eB8aa7BAf50705338739e558E5b"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokens": {
+            "name": [
+                "WETH",
+                "MATIC"
+            ],
+            "address": [
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0xc4e595acDD7d12feC385E5dA5D43160e8A0bAC0E",
+                "0xadbF1854e5883eB8aa7BAf50705338739e558E5b"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": true
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokens": {
+            "name": [
+                "MATIC",
+                "WETH"
+            ],
+            "address": [
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0xadbF1854e5883eB8aa7BAf50705338739e558E5b",
+                "0xc4e595acDD7d12feC385E5dA5D43160e8A0bAC0E"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "MATIC-WETH",
+        "tokens": {
+            "name": [
+                "WETH",
+                "MATIC"
+            ],
+            "address": [
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0xadbF1854e5883eB8aa7BAf50705338739e558E5b",
+                "0xc4e595acDD7d12feC385E5dA5D43160e8A0bAC0E"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": true
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokens": {
+            "name": [
+                "WBTC",
+                "WETH"
+            ],
+            "address": [
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0xE62Ec2e799305E0D367b0Cc3ee2CdA135bF89816",
+                "0xdC9232E2Df177d7a12FdFf6EcBAb114E2231198D"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokens": {
+            "name": [
+                "WETH",
+                "WBTC"
+            ],
+            "address": [
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0xE62Ec2e799305E0D367b0Cc3ee2CdA135bF89816",
+                "0xdC9232E2Df177d7a12FdFf6EcBAb114E2231198D"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": true
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokens": {
+            "name": [
+                "WBTC",
+                "WETH"
+            ],
+            "address": [
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0xdC9232E2Df177d7a12FdFf6EcBAb114E2231198D",
+                "0xE62Ec2e799305E0D367b0Cc3ee2CdA135bF89816"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "WBTC-WETH",
+        "tokens": {
+            "name": [
+                "WETH",
+                "WBTC"
+            ],
+            "address": [
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0xdC9232E2Df177d7a12FdFf6EcBAb114E2231198D",
+                "0xE62Ec2e799305E0D367b0Cc3ee2CdA135bF89816"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": true
+    },
+    {
+        "pool": "USDCe-WETH",
+        "tokens": {
+            "name": [
+                "USDCe",
+                "WETH"
+            ],
+            "address": [
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0x34965ba0ac2451A34a0471F04CCa3F990b8dea27",
+                "0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "USDCe-WETH",
+        "tokens": {
+            "name": [
+                "WETH",
+                "USDCe"
+            ],
+            "address": [
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0x34965ba0ac2451A34a0471F04CCa3F990b8dea27",
+                "0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": true
+    },
+    {
+        "pool": "USDCe-WETH",
+        "tokens": {
+            "name": [
+                "USDCe",
+                "WETH"
+            ],
+            "address": [
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d",
+                "0x34965ba0ac2451A34a0471F04CCa3F990b8dea27"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "USDCe-WETH",
+        "tokens": {
+            "name": [
+                "WETH",
+                "USDCe"
+            ],
+            "address": [
+                "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d",
+                "0x34965ba0ac2451A34a0471F04CCa3F990b8dea27"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": true
+    },
+    {
+        "pool": "MATIC-USDCe",
+        "tokens": {
+            "name": [
+                "MATIC",
+                "USDCe"
+            ],
+            "address": [
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0xcd353F79d9FADe311fC3119B841e1f456b54e858",
+                "0x6e7a5FAFcec6BB1e78bAE2A1F0B612012BF14827"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "MATIC-USDCe",
+        "tokens": {
+            "name": [
+                "USDCe",
+                "MATIC"
+            ],
+            "address": [
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0xcd353F79d9FADe311fC3119B841e1f456b54e858",
+                "0x6e7a5FAFcec6BB1e78bAE2A1F0B612012BF14827"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": true
+    },
+    {
+        "pool": "MATIC-USDCe",
+        "tokens": {
+            "name": [
+                "MATIC",
+                "USDCe"
+            ],
+            "address": [
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0x6e7a5FAFcec6BB1e78bAE2A1F0B612012BF14827",
+                "0xcd353F79d9FADe311fC3119B841e1f456b54e858"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "MATIC-USDCe",
+        "tokens": {
+            "name": [
+                "USDCe",
+                "MATIC"
+            ],
+            "address": [
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0x6e7a5FAFcec6BB1e78bAE2A1F0B612012BF14827",
+                "0xcd353F79d9FADe311fC3119B841e1f456b54e858"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": true
+    },
+    {
+        "pool": "WBTC-USDCe",
+        "tokens": {
+            "name": [
+                "WBTC",
+                "USDCe"
+            ],
+            "address": [
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0xD02b870c556480491c70AaF98C297fddd93F6f5C",
+                "0xF6a637525402643B0654a54bEAd2Cb9A83C8B498"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "WBTC-USDCe",
+        "tokens": {
+            "name": [
+                "USDCe",
+                "WBTC"
+            ],
+            "address": [
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0xD02b870c556480491c70AaF98C297fddd93F6f5C",
+                "0xF6a637525402643B0654a54bEAd2Cb9A83C8B498"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": true
+    },
+    {
+        "pool": "WBTC-USDCe",
+        "tokens": {
+            "name": [
+                "WBTC",
+                "USDCe"
+            ],
+            "address": [
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0xF6a637525402643B0654a54bEAd2Cb9A83C8B498",
+                "0xD02b870c556480491c70AaF98C297fddd93F6f5C"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "WBTC-USDCe",
+        "tokens": {
+            "name": [
+                "USDCe",
+                "WBTC"
+            ],
+            "address": [
+                "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0xF6a637525402643B0654a54bEAd2Cb9A83C8B498",
+                "0xD02b870c556480491c70AaF98C297fddd93F6f5C"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": true
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokens": {
+            "name": [
+                "MATIC",
+                "WBTC"
+            ],
+            "address": [
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0x8531c4e29491fE6e5e87AF6054FC20FcCf0b4290",
+                "0xf6B87181BF250af082272E3f448eC3238746Ce3D"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokens": {
+            "name": [
+                "WBTC",
+                "MATIC"
+            ],
+            "address": [
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Sushiswap",
+                "Quickswap"
+            ],
+            "pool": [
+                "0x8531c4e29491fE6e5e87AF6054FC20FcCf0b4290",
+                "0xf6B87181BF250af082272E3f448eC3238746Ce3D"
+            ],
+            "router": [
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+            ]
+        },
+        "reverse": true
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokens": {
+            "name": [
+                "MATIC",
+                "WBTC"
+            ],
+            "address": [
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0xf6B87181BF250af082272E3f448eC3238746Ce3D",
+                "0x8531c4e29491fE6e5e87AF6054FC20FcCf0b4290"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": false
+    },
+    {
+        "pool": "MATIC-WBTC",
+        "tokens": {
+            "name": [
+                "WBTC",
+                "MATIC"
+            ],
+            "address": [
+                "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+                "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+            ]
+        },
+        "dexs": {
+            "name": [
+                "Quickswap",
+                "Sushiswap"
+            ],
+            "pool": [
+                "0xf6B87181BF250af082272E3f448eC3238746Ce3D",
+                "0x8531c4e29491fE6e5e87AF6054FC20FcCf0b4290"
+            ],
+            "router": [
+                "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+                "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+            ]
+        },
+        "reverse": true
+    }
+]
